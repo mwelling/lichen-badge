@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name lichen-badge)(type Legacy)(uri C:/Users/michael/Documents/GitHub/lichen-badge/lichen-badge.lib)(options "")(descr ""))
+  (lib (name osd335x-csip)(type Legacy)(uri C:/Users/michael/Documents/GitHub/lichen-badge/osd335x-csip.lib)(options "")(descr ""))
+  (lib (name PocketBeagle)(type Legacy)(uri C:/Users/michael/Documents/GitHub/lichen-badge/PocketBeagle.lib)(options "")(descr ""))
+  (lib (name baconbits)(type Legacy)(uri C:/Users/michael/Documents/GitHub/lichen-badge/baconbits.lib)(options "")(descr ""))
+)
