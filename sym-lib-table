@@ -3,4 +3,5 @@
   (lib (name osd335x-csip)(type Legacy)(uri ${KIPRJMOD}/osd335x-csip.lib)(options "")(descr ""))
   (lib (name PocketBeagle)(type Legacy)(uri ${KIPRJMOD}/PocketBeagle.lib)(options "")(descr ""))
   (lib (name baconbits)(type Legacy)(uri ${KIPRJMOD}/baconbits.lib)(options "")(descr ""))
+  (lib (name "spi-lcd-(1.8in)")(type Legacy)(uri "${KIPRJMOD}/spi-lcd-(1.8in).lib")(options "")(descr ""))
 )
